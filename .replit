@@ -1,0 +1,1 @@
+run = "javac ClassroomIntroSurvey.java && java ClassroomIntroSurvey"
